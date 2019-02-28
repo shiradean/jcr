@@ -1,0 +1,10 @@
+<jboss-deployment-structure>
+	<deployment>
+		<dependencies>
+			<module name="org.postgresql" />
+			<module name="javax.jcr" />
+			<module name="deployment.jackrabbit-jca-2.19.1.rar"/>
+		</dependencies>
+	</deployment>
+</jboss-deployment-structure>
+
